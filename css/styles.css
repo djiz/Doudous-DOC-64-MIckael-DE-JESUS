@@ -2,3 +2,14 @@
     transition: 0.5s;
     z-index: 1000;
 }
+.navbar-title {
+    font-size: 25px;
+}
+#firstPage {
+    min-height: 100vh;
+    background-image: url("../img/teddy-bears-2.jpg");
+    background-position: center;
+}
+#presentation {
+    background-color: #000000ba;
+}
