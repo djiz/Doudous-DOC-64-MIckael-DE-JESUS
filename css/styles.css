@@ -14,3 +14,23 @@
     font-size: 50px;
     font-weight: bold;
 }
+.description {
+    min-width: 550px;
+    margin: 15px auto;
+    font-size: 18px;
+}
+.img-aboutUs {
+    width: 400px;
+    height: 400px;
+    max-width: 100%;
+    background-color: #fff;
+    border-radius: 15px;
+    border: 3px solid #fff;
+}
+.title-aboutUs {
+    margin-bottom: 25px;
+    font-size: 40px;
+}
+.presentation-aboutUs {
+    font-size: 20px;
+}
