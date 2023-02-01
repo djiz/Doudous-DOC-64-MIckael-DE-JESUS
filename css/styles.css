@@ -34,3 +34,16 @@
 .presentation-aboutUs {
     font-size: 20px;
 }
+.btn-subscribe {
+    text-decoration: none;
+    color: #fff;
+}
+.title-teddyDay {
+    padding-bottom: 15px;
+}
+.teddyDay {
+    background: #b5b3b3;
+}
+.arrow {
+    margin-left: 10px;
+}
