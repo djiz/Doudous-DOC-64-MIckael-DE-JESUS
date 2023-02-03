@@ -1,6 +1,9 @@
+/* /* ----- Barre de naviguation ----- */
 .navbar-title {
     font-size: 25px;
 }
+
+/* ----- Accueil ----- */
 #firstPage {
     min-height: 100vh;
     background-image: url("../img/teddy-bears-2.jpg");
@@ -19,6 +22,8 @@
     margin: 15px auto;
     font-size: 18px;
 }
+
+/* ----- Qui sommes-nous ? ----- */
 .img-aboutUs {
     width: 400px;
     height: 400px;
@@ -32,17 +37,34 @@
     font-size: 40px;
 }
 .presentation-aboutUs {
-    font-size: 20px;
+    font-size: 18px;
+}
+
+/* ----- Journée du doudou ----- */
+#teddyDay {
+    background-color: #000000ba
 }
 .btn-subscribe {
     text-decoration: none;
     color: #fff;
 }
-.title-teddyDay {
-    padding-bottom: 15px;
+.teddyDay-title {
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
-.teddyDay {
-    background: #b5b3b3;
+.img-teddyDay {
+    border: 3px solid #fff;
+    border-radius: 15px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+.teddyDay-text {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.teddyDay span {
+    font-weight: bold;
 }
 .arrow {
     margin-left: 10px;
