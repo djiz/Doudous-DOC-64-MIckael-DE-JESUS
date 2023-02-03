@@ -1,6 +1,7 @@
 /* /* ----- Barre de naviguation ----- */
 .navbar-title {
     font-size: 25px;
+    margin: 15px;
 }
 
 /* ----- Accueil ----- */
@@ -69,3 +70,20 @@
 .arrow {
     margin-left: 10px;
 }
+
+/* ----- Footer ----- */
+.footer-page {
+    padding: 30px;
+}
+.social-share {
+    padding: 20px;
+    margin: 20px;
+}
+
+/* ----- Scroll Top ----- */
+#scrollTop-button {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
